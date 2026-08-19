@@ -14,7 +14,8 @@
 
 ### 🧰 Sobre Mim / About Me
 
-- 🎓 **Educação:** Estudante de **Sistemas de Computação**.
+- 🎓 **Educação:** Estudante de **Sistemas de Computação** - UESPI
+- .
 - ⚙️ **Foco Atual:** Desenvolvimento **Back-end** e arquitetura de APIs eficientes.
 - 🌱 **No momento estou aprimorando:** **Node.js**, **Fastify**, **Prisma ORM** e **TypeScript**.
 - 🛠️ **Habilidades Principais:** Construção de APIs REST, modelagem de bancos de dados relacionais com **PostgreSQL** e conteinerização com **Docker**.
